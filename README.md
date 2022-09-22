@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @fomoshlo3
 - 👀 I’m interested in nearly everything cause i am noob
-- 🌱 I’m currently learning laravel 8
+- 🌱 I am currently learning App Development at vocational school
+- C#, OOP
 -
 - 📫 How to reach me hanneskasel@gmail.com
 
