@@ -2,7 +2,10 @@
 - 👀 I’m interested in nearly everything cause i am noob
 - 🌱 I am currently learning App Development at vocational school
 - C#, OOP
--
+- EFCore (6.x, 7.x)
+- MSSQL (19.x)
+- SQLite3
+
 - 📫 How to reach me hanneskasel@gmail.com
 
 <!---
