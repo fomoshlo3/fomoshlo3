@@ -1,7 +1,7 @@
 # 👋 Hello, my name is Hannes Kasel
 ## Welcome to my Github repo!
 
-🌱 I am currently self-studying after failing my final exams for becoming an *** Application Developer ***.
+🌱 I am currently self-studying after failing my final exams for becoming an ***Application Developer***.
 
 I am actively on job search for an entry-level position in the field or
 an opportunity to repeat the whole apprenticeship.
