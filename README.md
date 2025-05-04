@@ -15,8 +15,8 @@ My curriculum includes:
 | languages | frameworks | 
 | :- | :- |
 | C-Sharp | Blazor, ASP.NET Core, .NET |
-| JavaScript | |
-| SQL | | 
-| T-SQL | EF Core
-| HTML | |
-| CSS | |
+| JavaScript | Vanilla |
+| SQL | Vanilla | 
+| T-SQL | EF Core |
+| HTML | Vanilla |
+| CSS | Vanilla |
